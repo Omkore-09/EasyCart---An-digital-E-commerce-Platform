@@ -1,4 +1,4 @@
-const backendDomin = 'http://localhost:8080' || 'https://easycart-backemd.onrender.com'
+const backendDomin = 'https://easycart-backemd.onrender.com'
 
 const SummaryApi = {
     signUP : {
