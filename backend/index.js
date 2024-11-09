@@ -8,7 +8,7 @@ const router = require('./routes')
 
 const app = express()
 app.use(cors({
-    origin : 'http://localhost:3000' || 'https://easycart-an-digital-e-commerce-platform.onrender.com' ,
+    origin :  'https://easycart-an-digital-e-commerce-platform.onrender.com' ,
     credentials : true
 }))
 app.use(express.json()) 
